@@ -1,0 +1,1 @@
+https://elanderson.net/2016/10/create-a-net-standard-library-for-use-with-full-net-framework/
