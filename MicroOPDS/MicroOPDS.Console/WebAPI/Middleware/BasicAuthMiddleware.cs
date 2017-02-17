@@ -75,7 +75,7 @@ namespace MicroOPDS.Console
             }
             */
             context.Response.StatusCode = 401;
-            context.Response.Headers.Append("WWW-Authenticate", @"Basic realm=""DotOPDS""");
+            context.Response.Headers.Append("WWW-Authenticate", @"Basic realm=""MicroOPDS""");
         }
     }
 

@@ -28,7 +28,6 @@ namespace MicroOPDS.Console
             //);
 
             //if (Settings.Instance.Authentication.Enabled) appBuilder.UseBasicAuthentication();
-            appBuilder.UseBasicAuthentication();
             appBuilder.UseWebApi(config);
         }
     }
