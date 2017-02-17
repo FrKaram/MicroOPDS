@@ -447,7 +447,8 @@ namespace TinyOPDS.Server
     /// <summary>
     /// Simple HTTP server
     /// </summary>
-    public abstract class HttpServer
+    public abstract class HttpServeryopds
+
     {
         protected int _port;
         protected int _timeout;
